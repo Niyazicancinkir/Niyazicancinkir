@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Niyazicancinkir
 - 👀 I’m interested in Software
-- 🌱 I’m currently learning React Native 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on Dewolopment
 - 📫 How to reach me Mail=niyazicancinkir@gmail.com
 
